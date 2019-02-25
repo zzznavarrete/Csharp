@@ -1,0 +1,14 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\bin\Debug\capaLogicaNegocio.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\bin\Debug\capaLogicaNegocio.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\bin\Debug\capaAccesoDatos.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\bin\Debug\capaAccesoDatos.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\obj\Debug\capaLogicaNegocio.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaLogicaNegocio\obj\Debug\capaLogicaNegocio.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\bin\Debug\capaLogicaNegocio.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\bin\Debug\capaLogicaNegocio.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\bin\Debug\capaAccesoDatos.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\bin\Debug\capaAccesoDatos.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\obj\Debug\capaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\obj\Debug\capaLogicaNegocio.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaLogicaNegocio\obj\Debug\capaLogicaNegocio.pdb

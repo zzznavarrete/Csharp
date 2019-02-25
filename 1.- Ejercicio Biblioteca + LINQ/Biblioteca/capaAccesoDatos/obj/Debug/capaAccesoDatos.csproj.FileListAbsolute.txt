@@ -1,0 +1,9 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaAccesoDatos\bin\Debug\capaAccesoDatos.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaAccesoDatos\bin\Debug\capaAccesoDatos.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaAccesoDatos\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaAccesoDatos\obj\Debug\capaAccesoDatos.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaAccesoDatos\obj\Debug\capaAccesoDatos.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaAccesoDatos\bin\Debug\capaAccesoDatos.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaAccesoDatos\bin\Debug\capaAccesoDatos.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaAccesoDatos\obj\Debug\capaAccesoDatos.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaAccesoDatos\obj\Debug\capaAccesoDatos.pdb

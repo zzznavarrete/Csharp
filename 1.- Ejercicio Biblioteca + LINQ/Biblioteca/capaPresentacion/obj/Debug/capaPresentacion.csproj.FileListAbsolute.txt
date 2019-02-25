@@ -1,0 +1,27 @@
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaPresentacion.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaPresentacion.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaAccesoDatos.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaAccesoDatos.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.pdb
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\obj\Debug\ResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.dll
+c:\users\duoc\documents\visual studio 2010\Projects\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaPresentacion.dll
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaPresentacion.pdb
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaAccesoDatos.dll
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.dll
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaAccesoDatos.pdb
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.pdb
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\Eliseo\Desktop\DEN\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaPresentacion.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaPresentacion.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaAccesoDatos.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaAccesoDatos.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\bin\capaLogicaNegocio.pdb
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.dll
+D:\2016-2\DEN\Semana 7\1.- Ejercicio Biblioteca\Biblioteca\capaPresentacion\obj\Debug\capaPresentacion.pdb
